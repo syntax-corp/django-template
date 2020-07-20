@@ -1,2 +1,4 @@
 # django-template
-a template to start off Django projects
+
+hello!
+this is a template to start off Django projects for your workflow!
